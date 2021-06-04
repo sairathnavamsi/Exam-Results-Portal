@@ -1,0 +1,45 @@
+body
+{
+background-image:url("student.jpg");
+background-repeat:no-repeat;
+background-size:85.5em 39em;
+padding-left:22em;
+padding-top:6em;
+}
+div.care
+{
+align:center;
+text-align:center;
+color:PapayaWhip;
+width:34%;
+background-color:MediumVioletRed;
+height:15em;
+border:1px solid PapayaWhip;
+border-radius:4px;
+padding:5px;
+}
+.care1
+{
+padding:6px;
+margin-top:5px;
+color:PapayaWhip;
+}
+.care11
+{
+padding:6px;
+margin-top:5px;
+color:Black;
+}
+.care2
+{
+width:20em;
+text-align:center;
+border-bottom:10px solid PapayaWhip;
+border-bottom-width:thick;
+color:PapayaWhip;
+}
+#message
+{
+color:PapayaWhip;
+margin-top:5px;
+}

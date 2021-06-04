@@ -1,0 +1,91 @@
+body
+{
+background:url("images.jpg");
+background-repeat:no-repeat;
+background-size:85.5em 39em;
+}
+div.care1
+{
+height:11em;
+color:White;
+font-family: Verdana, sans-serif;
+}
+div.care2
+{
+background-color:MediumVioletRed;
+width:18em;
+height:12em;
+border-radius:4px;
+float:left;
+border:1px solid PapayaWhip;
+color:PapayaWhip;
+font-family: Verdana, sans-serif;
+}
+div.care3
+{
+font-size:15pt;
+border-bottom:10px solid PapayaWhip;
+border-bottom-width:thick;
+}
+div.care4
+{
+width:20em;
+height:21em;
+padding:10px;
+background-color:MediumVioletRed;
+border:1px solid PapayaWhip;
+color:PapayaWhip;
+font-family: Verdana, sans-serif;
+float:right;
+border-radius:6px;
+}
+.care5
+{
+padding:6px;
+margin-top:5px;
+}
+.care6
+{
+padding:10px;
+float:center;
+}
+div.care7
+{
+padding:10px;
+padding-left:100px;
+padding-top:20px;
+}
+div.care7a
+{
+padding-left:70px;
+padding-top:25px;
+}
+div.care71
+{
+padding:10px;
+padding-left:65px;
+padding-top:10px;
+}
+h4,p,label
+{
+text-align:center;
+}
+.c
+{
+text-decoration:none;
+border:none;
+border-radius:4px;
+padding:5px;
+border:1px solid black;
+color:MediumVioletRed;
+background-color:PapayaWhip;
+}
+.d
+{
+color:PapayaWhip;
+}
+#message
+{
+color:Red;
+margin-top:5px;
+}
